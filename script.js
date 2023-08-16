@@ -12,4 +12,3 @@ humberger.addEventListener('click',function(){
     slide.classList.toggle('slide');
 });
 
-
