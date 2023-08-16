@@ -60,12 +60,6 @@ body{
     grid-template-columns: 1fr 2fr;
     align-items: center;
 }
-
-.menu-list{
-    background-color: hotpink;
-    color: rgb(54, 0, 27);
-}
-
 .humberger{
     display: none;
 }
@@ -82,6 +76,10 @@ ul{
     text-decoration: none;
     padding: 10px;
     text-align: center;
+}
+.menu a:hover{
+    background-color: hotpink;
+    color: rgb(54, 0, 27);
 }
 .services{
     margin-top: 20px;
