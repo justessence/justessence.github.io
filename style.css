@@ -61,7 +61,7 @@ body{
     align-items: center;
 }
 
-.menu-list:hover{
+.menu-list{
     background-color: hotpink;
     color: rgb(54, 0, 27);
 }
